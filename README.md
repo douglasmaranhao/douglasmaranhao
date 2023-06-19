@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @douglasmaranhao
 - 🌱 I’m currently learning system development at Oracle Next Education.
 - 💞️ I’m looking to collaborate on technology area.
-- 📫 How to reach me: https://www.linkedin.com/in/humberto-maranh%C3%A3o/
+- 📫 How to reach me: https://www.linkedin.com/in/humberto-maranh%C3%A3o/](https://www.linkedin.com/in/douglas-maranhao-dev/
 
 <!---
 douglasmaranhao/douglasmaranhao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
